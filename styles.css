@@ -1,0 +1,27 @@
+/* add your CSS here */
+.elephant-width {
+  width: 300px;
+}
+
+.animal-info {
+  font-style: italic;
+}
+
+.lables {
+	font-weight: bold;
+}
+
+#facts {
+  list-style-type: none;
+}
+
+.border {
+  border-style:solid;
+  padding: 10px;
+  border-width: 2px;
+}
+
+.animal-info {
+  border-style:solid;
+  border-width: 2px;
+}
